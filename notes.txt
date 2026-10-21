@@ -1,0 +1,2 @@
+I am learning Git and GitHub.
+Today I am practising Git basics.
